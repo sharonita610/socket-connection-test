@@ -1,4 +1,4 @@
-package org.socket.socketconnectiontest;
+package org.socket.connection;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
